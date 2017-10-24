@@ -1,4 +1,4 @@
-class SchoolClassesController
+class SchoolClassesController < ApplicationController
   def show
     @school_class = SchoolClass.find_by(params[:id])
   end
