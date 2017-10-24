@@ -329,3 +329,25 @@ NoMethodError (undefined method `action' for StudentsController:Class):
 Started GET "/students/new" for 82.36.89.196 at 2017-10-24 23:15:21 +0000
 Cannot render console from 82.36.89.196! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
 Processing by StudentsController#new as HTML
+  Rendered students/new.html.erb within layouts/application (17.0ms)
+Completed 200 OK in 1105ms (Views: 1094.2ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 82.36.89.196 at 2017-10-24 23:15:22 +0000
+Cannot render console from 82.36.89.196! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 82.36.89.196 at 2017-10-24 23:15:22 +0000
+Cannot render console from 82.36.89.196! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 82.36.89.196 at 2017-10-24 23:15:22 +0000
+Cannot render console from 82.36.89.196! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 82.36.89.196 at 2017-10-24 23:15:22 +0000
+Cannot render console from 82.36.89.196! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 82.36.89.196 at 2017-10-24 23:15:22 +0000
+Cannot render console from 82.36.89.196! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
